@@ -29,10 +29,8 @@ table{
   <p> - ERASMUS: to participate in ERASMUS at Italy.</p>
   <p> - ERASMUS: to participate in ERASMUS at Germany.</p>
 
+<h2>HOBBIES</h2>
   <table>
-<tr>
-    <th>HOBBIES</th>
-</tr>
 <tr>
     <th>Reading and writing.</th>
     <th>Videogames.</th>
