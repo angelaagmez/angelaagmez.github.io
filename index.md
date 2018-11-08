@@ -17,7 +17,7 @@ table{
 
 <body>
   <h1>ABOUT ME.</h1>  
-  <h2>WELCOME TO MY PERSONAL PAGE.</h2> <img src="/home/usuario/Descargas/perfil.jpg" style="width:128px;height:128px;">
+  <h2>WELCOME TO MY PERSONAL PAGE.</h2> 
   <h3>My name is Angela Bonilla Gomez. I'm a computer systems administration student, I've got a C1 english title and I did some trips to other countries to work on technology. I was born the 1st of June in Seville, Spain. I'm always ready to new experiences and challenges.</h3>
   
 
