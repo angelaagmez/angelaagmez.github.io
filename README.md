@@ -34,12 +34,12 @@ table{
     <th>HOBBIES</th>
 </tr>
 <tr>
-    <th>Reading and writing.</th>
-    <th>Videogames.</th>
-    <th>Films.</th>
-    <th>Videogames.</th>
-    <th>Trips and new experiences.</th>
-    <th>Music</th>
+    <td>Reading and writing.</td>
+    <td>Videogames.</td>
+    <td>Films.</td>
+    <td>Videogames.</td>
+    <td>Trips and new experiences.</td>
+    <td>Music</td>
 </tr>
   </table>
   
